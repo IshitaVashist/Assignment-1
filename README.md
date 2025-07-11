@@ -1,23 +1,6 @@
-<<<<<<< HEAD
-Awesome Ishita — let’s wrap this up cleanly with a solid, clear, recruiter/interviewer-friendly `README.md` for your assignment deliverable.
+# 📌 📖  BACKEND PROJECT
 
----
 
-# 📌 📖 Step 6: Clean, Complete `README.md` Template
-
-Create a file in your project root:
-
-```
-Aganitha/README.md
-```
-
-Paste this content in:
-
----
-
-## 📄 README.md
-
-```markdown
 # PubMed Papers CLI 📚🖥️
 
 A command-line tool to fetch recent PubMed research papers based on a search query, parse their metadata, and export the results to a CSV file.
@@ -79,7 +62,7 @@ Add Poetry to PATH or run it via its full path if necessary.
 
 Inside your project folder:
 
-```bash
+```Powershell/bash
 poetry install
 ```
 
@@ -89,7 +72,7 @@ poetry install
 
 From your project directory, run:
 
-```bash
+```Powershell/bash
 poetry run get-papers-list "covid 19" --file papers.csv --debug
 ```
 
@@ -136,20 +119,3 @@ MIT License (or as per assignment requirements)
 Ishita Vashist
 
 ```
-
----
-
-## 📌 ✅ Final Move:
-
-1. Save this as `README.md` in your project folder.
-2. You’re done — clean, professional, assignment-ready.
-
----
-
-## ✅ Step 6 Completed!
-
-Would you like a quick guide for optional **publishing to Test PyPI** (if asked in interview)? Or are you ready to record your video demo now? 🚀
-```
-=======
-# Assignment-1
->>>>>>> 09377c670a39522e2762f7c5df02da791660a253
